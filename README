@@ -1,2 +1,9 @@
+# Rubik's
+
 Petit rubik's cube fait avec la lib SDL et SDL_image.
-Le jeu n'est pas termine, il manque quelques fleches et des projections ˆ placer.
+
+Le jeu n'est pas terminé, il manque quelques flèches et des projections à placer.
+
+Bug : en fonction de l'endianess, le jeu fonctionnera ou crashera...
+
+![Rubik](https://github.com/pouet/rubik/rubik.png)
